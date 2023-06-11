@@ -1,4 +1,4 @@
 # Laravel 10 upgrade
-- **[Lendio](https://lendio.com)**
+- ** Zule kings**
 
-## Enjoy yourself
+## Laravel 10
